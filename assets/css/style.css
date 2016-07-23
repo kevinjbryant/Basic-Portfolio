@@ -1,0 +1,55 @@
+
+body{
+	background: url("../images/swirl_pattern/swirl_pattern.png");
+}
+
+/* style portion for index.html*/
+#main {
+	float: left;
+	width: 650px;
+	margin: 20px 20px 0px 0px;
+	padding: 20px;
+
+	border: 2px solid grey;
+	background: white;
+}
+
+
+
+
+
+/* style portion for index.html*/
+#contact-form{
+	float: left;
+	width: 45%;
+	height: 60%;
+	margin: 30px;
+	padding: 20px;
+    text-align: left;
+	border: 2px solid grey;
+	background: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* style portion for index.html*/
+#portfolio{
+	float: left;
+	width: 45%;
+	height: 60%;
+	margin: 30px;
+	padding: 20px;
+    text-align: left;
+	border: 2px solid grey;
+	background: white;
+}
+
+
